@@ -1,4 +1,4 @@
-# Evidence_pojisteni
+# Evidence_pojisteni - Jiří Dvořáček
 
 Zadani:
 Naprogramuj konzolovou aplikaci pro evidenci pojistných událostí. Před odevzdáním si zkontroluj, že tvůj kód odpovídá kritériím uvedeným v další záložce níže.
