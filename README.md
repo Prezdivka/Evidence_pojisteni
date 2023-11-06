@@ -2,6 +2,7 @@
 
 Zadani:
 Naprogramuj konzolovou aplikaci pro evidenci pojistných událostí. Před odevzdáním si zkontroluj, že tvůj kód odpovídá kritériím uvedeným v další záložce níže.
+
 Minimální požadavky ke splnění
 
     Aplikace obsahuje správu pojištěných (to jsou pojištěné osoby, např. "Jan Novák"):
